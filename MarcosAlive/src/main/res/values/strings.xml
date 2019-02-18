@@ -1,0 +1,24 @@
+<resources>
+    <string name="asset_statements" translatable="false">[{\n  \"relation\": [\"delegate_permission/common.handle_all_urls\"],\n  \"target\": {\n    \"namespace\": \"web\",\n    \"site\": \"https://panomaps.net\",\n  }\n}]</string>
+
+    <string name="app_name">Marcos Alive</string>
+
+    <string name="marca">© 2018 Marcos Nunes</string>
+
+    <string name="Main_Activity">Marcos Alive</string>
+    <string name="abouttext">Olá! Eu criei este aplicativo basicamente para testar minhas habilidades em programação.
+         Aqui voce encontra um robô escrito em html / jquery. O site está hospedado no github pages e não salva as informações
+        do usuário. Divirta-se conversando comigo! O meu robô não vai aprender novos diálogos, mas existe bastante texto para
+        voce explorar esta experiência virtual divertida comigo. </string>
+    <string name="My_Name">Marcos Nunes</string>
+    <string name="title_home">Chat</string>
+    <string name="title_portifolio">Portifólio</string>
+    <string name="title_info">Info</string>
+    <string name="Toast">Marcos is Alive…</string>
+
+    <string name="rationale_camera">Acessar a câmera</string>
+    <string name="rationale_location">Permissões para localização</string>
+    <string name="rationale_write_storage">Gravar arquivos</string>
+    <string name="default_notification_channel_id">Marcos Alive</string>
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1049078751219",
+    "firebase_url": "https://marcosalivebot.firebaseio.com",
+    "project_id": "marcosalivebot",
+    "storage_bucket": "marcosalivebot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049078751219:android:16f5a56af08ebb89",
+        "android_client_info": {
+          "package_name": "com.marcosalive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049078751219-trqa2jfgc0vntug43ure1ksh8a83t1cj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marcosalive",
+            "certificate_hash": "0c5355dc5079bc2c8b0b0f94100d8dcaf3b8af49"
+          }
+        },
+        {
+          "client_id": "1049078751219-eum4ra86jl36fi0ptbv9425kr811tbmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDava1ETDoi06ch3rZr_TU51_FpgpYK20U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049078751219-eum4ra86jl36fi0ptbv9425kr811tbmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
